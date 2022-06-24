@@ -1,0 +1,10 @@
+# Chalice
+.chalice/deployments/
+.chalice/venv/
+
+# Python venv
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
